@@ -1,5 +1,5 @@
 import React from 'react';
-import { Header } from 'src/components/ExpressHeader.js';
+import { Header } from './components/ExpenseHeader.html';
 
 import './App.css';
 
